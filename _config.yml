@@ -1,7 +1,7 @@
 theme: jekyll-theme-tactile
-
+layout: default
 title: Travis Michels
-description: Award Winning Broadcast Meteorologistsd
+description: Award Winning Broadcast Meteorologist
 social media:
   linkedin: travis-michels-2500216b
   facebook: meteorologisttravis.michels
